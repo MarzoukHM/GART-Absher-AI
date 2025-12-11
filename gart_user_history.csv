@@ -1,0 +1,4 @@
+timestamp,user_id,country,device,action,hour,VPN,failed_logins,typing_speed,model_risk,behavior_risk,final_risk,level,decision,action_model
+2025-12-11 22:38:52,1,Saudi Arabia (KSA),mobile,view_profile,22,No,0,4.0,1,0,0,LOW,Allow,view
+2025-12-11 22:40:02,1,Bahrain,mobile,view_profile,22,No,0,4.0,58,16,41,MEDIUM,Challenge,view
+2025-12-11 22:56:38,2,Saudi Arabia (KSA),desktop,issue_worker_exit_reentry,15,Yes,10,6.69,43,0,25,LOW,Allow,view
